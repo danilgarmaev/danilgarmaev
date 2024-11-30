@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilgarmaev&label=Profile%20views&color=0e75b6&style=flat" alt="danilgarmaev" /> </p>
 
-- 📫 How to reach me
+- 📫 How to reach me <br>
 **Feel free to contact me by email danil[dot]garmaev[at]umontreal[dot]ca**
 
 <h3 align="left">Connect with me:</h3>
