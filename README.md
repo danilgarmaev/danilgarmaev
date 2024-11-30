@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Danil Garmaev</h1>
+<h1 align="left">Hi 👋, I'm Danil Garmaev</h1>
 <h5 align="left">Master’s student in Computer Science specializing in Generative AI, Computer Vision, and AI for Medical Applications. Passionate about solving real-world problems through technology, I enjoy experimenting with machine learning in hackathons and collaborative projects. Bilingual in French, fluent in English, and eager to explore new cultures and perspectives. I thrive in hands-on projects that drive meaningful impact, bringing creativity, adaptability, and enthusiasm for the transformative potential of AI.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilgarmaev&label=Profile%20views&color=0e75b6&style=flat" alt="danilgarmaev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danilgarmaev" alt="danilgarmaev" /></a> </p>
 
 - 📫 How to reach me **Feel free to contact me by email danil[dot]garmaev[at]umontreal[dot]ca**
 
