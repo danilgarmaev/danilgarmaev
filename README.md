@@ -1,5 +1,6 @@
 <h1 align="left">Hi, I'm Danil Garmaev</h1>
-<h5 align="left">Master’s student in Computer Science specializing in Generative AI, Computer Vision, and AI for Medical Applications. Passionate about solving real-world problems through technology, I enjoy experimenting with machine learning in hackathons and collaborative projects. Bilingual in French, fluent in English, and eager to explore new cultures and perspectives. I thrive in hands-on projects that drive meaningful impact, bringing creativity, adaptability, and enthusiasm for the transformative potential of AI.</h5>
+
+Master’s student in Computer Science specializing in Generative AI, Computer Vision, and AI for Medical Applications. Passionate about solving real-world problems through technology, I enjoy experimenting with machine learning in hackathons and collaborative projects. Bilingual in French, fluent in English, and eager to explore new cultures and perspectives. I thrive in hands-on projects that drive meaningful impact, bringing creativity, adaptability, and enthusiasm for the transformative potential of AI.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilgarmaev&label=Profile%30views&color=0e75b6&style=flat" alt="danilgarmaev" /> </p>
 
