@@ -1,13 +1,13 @@
 <h1 align="left">Hi, I'm Danil Garmaev</h1>
 
-Master’s student in Computer Science specializing in Generative AI, Computer Vision, and AI for Medical Applications. Passionate about solving real-world problems through technology, I enjoy experimenting with machine learning in hackathons and collaborative projects. Bilingual in French and English, I thrive in hands-on projects that drive meaningful impact, bringing creativity, adaptability, and enthusiasm for the transformative potential of AI.
+Master’s student in Artificial Intelligence at Université de Montréal, currently doing a research on solar eruptions by by analyzing magnetogram data to detect magnetic activity and improve space weather forecasting. I'm passionate about Generative AI, Computer Vision, and applying machine learning to real-world challenges in science and healthcare. I love working on hands-on, creative projects that aim to make a meaningful impact, whether through research or hackathons. I hold a Bachelor's degree in Mathematics and Computer Science from Paris-Saclay University.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilgarmaev&label=Profile%30views&color=0e75b6&style=flat" alt="danilgarmaev" /> </p>
 
-- 📫 How to reach me <br>
+- 📫 Contact info <br>
 **Feel free to contact me by email danil[dot]garmaev[at]umontreal[dot]ca**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/danil-garmaev-b29b41267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/danil-garmaev-b29b41267" height="30" width="30" /></a>
